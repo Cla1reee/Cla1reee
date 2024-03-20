@@ -3,7 +3,7 @@
 
 i'm new in here 
 
-Skills: sleeping!
+Skills: breath!
 
 - 🔭 I’m currently working on this page 
 - 🌱 I’m currently learning html, css, and js 
