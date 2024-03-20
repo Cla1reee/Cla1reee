@@ -1,10 +1,9 @@
 ### Hi there 👋, my name is hapis
 #### I am student
-![I am student] 
 
 i'm new in here 
 
-Skills: nothing
+Skills: sleeping!
 
 - 🔭 I’m currently working on this page 
 - 🌱 I’m currently learning html, css, and js 
