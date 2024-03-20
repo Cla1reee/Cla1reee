@@ -1,6 +1,6 @@
 ### Hi there 👋, my name is hapis
 #### I am student
-![I am student] https://i.pinimg.com/originals/b9/c4/7e/b9c47ef70bff06613d397abfce02c6e7.jpg
+![I am student] 
 
 i'm new in here 
 
