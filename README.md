@@ -2,7 +2,6 @@
 
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2196F3&width=435&lines=Full+Stack+Developer;Mobile+App+Enthusiast;Technopreneur+Student;Always+Learning..." alt="Typing SVG" />
-  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/hafizhrt/)  
 </a>
 
 <br/>
