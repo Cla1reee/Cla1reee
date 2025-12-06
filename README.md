@@ -33,11 +33,9 @@
 
 ### 📈 GitHub Stats
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Cla1reee&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" height="150" alt="stats graph" />
-  
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Cla1reee&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" height="150" alt="languages graph" />
-</div>
+![Stats](https://github-readme-stats.vercel.app/api?username=Cla1reee&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117)
+
+![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Cla1reee&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117)
 
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Cla1reee&theme=tokyonight&hide_border=true&background=0D1117" alt="streak graph" />
