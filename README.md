@@ -31,14 +31,16 @@
 
 <br/>
 
-### 📈 GitHub Stats
-
-![Stats](https://github-readme-stats.vercel.app/api?username=Cla1reee&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117)
-
-![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Cla1reee&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117)
-
+### 🏆 Achievements
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Cla1reee&theme=tokyonight&hide_border=true&background=0D1117" alt="streak graph" />
+  <img src="https://github-profile-trophy.herokuapp.com/?username=Cla1reee&theme=radical&no-frame=true&no-bg=true&margin-w=4" />
+</div>
+
+<br/>
+
+### 🔥 Streak
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Cla1reee&theme=radical&hide_border=true&background=0D1117" alt="streak graph" />
 </div>
 
 <br/>
