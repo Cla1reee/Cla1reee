@@ -1,14 +1,7 @@
 <div align="center">
-  <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width="120"/>
-  <h1>Hi there, I'm <a href="https://github.com/Cla1reee">Cla1reee</a>! 👋</h1>
-  <p><b>Developer | Tech Enthusiast | Learner</b></p>
-  
-  <a href="https://linkedin.com/in/USERNAME_LINKEDIN">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="mailto:EMAIL_KAMU@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
+  <img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" width="200" />
+  <br>
+  <b><i>"Coding hard... or hardly coding?"</i></b>
 </div>
 
 <br/>
@@ -28,6 +21,15 @@
 <div align="center">
   <img src="https://skillicons.dev/icons?i=js,html,css,react,nodejs,kotlin,androidstudio,git,github,vscode,mysql" />
 </div>
+
+<br/>
+
+### 🎵 Now Playing
+<p align="center">
+  <a href="https://github.com/kittinan/spotify-github-profile">
+    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=314ig44pvhktubs2dj53he7oxnya&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false&profanity=false&bar_color_cover=false">
+  </a>
+</p>
 
 <br/>
 
