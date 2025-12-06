@@ -31,13 +31,6 @@
 
 <br/>
 
-### 🏆 Achievements
-<div align="center">
-  <img src="https://github-profile-trophy.herokuapp.com/?username=Cla1reee&theme=radical&no-frame=true&no-bg=true&margin-w=4" />
-</div>
-
-<br/>
-
 ### 🔥 Streak
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Cla1reee&theme=radical&hide_border=true&background=0D1117" alt="streak graph" />
