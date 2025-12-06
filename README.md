@@ -23,8 +23,9 @@
 ### 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Cla1reee&show_icons=true&theme=radical" height="150" alt="stats graph"/> 
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Cla1reee&layout=compact&theme=radical" height="150" alt="languages graph"/>
+![](https://github-readme-stats.vercel.app/api?username=Cla1reee&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=Cla1reee&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Cla1reee&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 </div>
 
 <div align="center">
