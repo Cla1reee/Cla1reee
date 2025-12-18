@@ -35,6 +35,8 @@
 
 ### 🔥 Streak
 <div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Cla1reee&theme=tokyonight&show_icons=true&hide_border=true&count_private=true" alt="Cla1reee's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Cla1reee&theme=tokyonight&show_icons=true&hide_border=true&layout=compact" alt="Cla1reee's GitHub Stats" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Cla1reee&theme=radical&hide_border=true&background=0D1117" alt="streak graph" />
 </div>
 
